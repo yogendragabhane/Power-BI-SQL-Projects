@@ -19,4 +19,4 @@ This repository showcases my work in **data analytics, visualization, and report
 - [E-Commerce_Sales_Analytics.sql] - (https://github.com/user-attachments/files/23130325/E-Commerce_Sales_Analytics.sql)
 
 
-- Retail Sales Analysis.sql - SQL script to calculate sales and other aspect of retail business.
+- [Retail_Analytics.sql] - (https://github.com/user-attachments/files/23130428/Retail_Analytics.sql)
