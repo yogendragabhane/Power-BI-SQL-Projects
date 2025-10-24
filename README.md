@@ -11,7 +11,6 @@ This repository showcases my work in **data analytics, visualization, and report
 - Sales Dashboard.pbix - Retail sales analysis
 
 - 
-[E-Commerce_Sales_Analytics.sql](https://github.com/user-attachments/files/23130325/E-Commerce_Sales_Analytics.sql)
                                             -
 
 
